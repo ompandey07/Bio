@@ -4,7 +4,7 @@
 
 💡 My skills include:
 
-Web Development: HTML, CSS, JavaScript, React, Node.js, Django
+Web Development: HTML, CSS, JavaScript, Django
 VPN Management: Ensuring secure and efficient network connections
 Database Management: Proficient in SQL and database design (DBMS)
 🚀 Always eager to learn and adapt to new technologies, I am currently exploring innovative ways to integrate emerging trends into my projects. I believe in the power of continuous learning and staying ahead in the ever-evolving tech landscape.
